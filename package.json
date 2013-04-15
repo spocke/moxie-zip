@@ -1,6 +1,6 @@
 {
     "name": "moxie-zip",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Yet another zip library",
     "author": "Johan Sörlin <spocke@moxiecode.com>",
     "bugs": { "url" : "http://github.com/spocke/moxie-zip/issues" },
